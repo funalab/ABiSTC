@@ -1,0 +1,35 @@
+# Mac OS
+.DS_Store
+
+# Byte-compiled
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Emacs
+*~
+
+# Vim
+*.swp
+
+# PyCharm
+.idea
+
+# Specific to this repository
+results
+*model
+src
+dataset_*
